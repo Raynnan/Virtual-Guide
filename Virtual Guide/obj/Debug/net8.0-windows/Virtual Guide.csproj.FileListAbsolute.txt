@@ -1,0 +1,40 @@
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Virtual Guide.exe
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Virtual Guide.deps.json
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Virtual Guide.runtimeconfig.json
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Virtual Guide.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Virtual Guide.pdb
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual_Guide.Properties.Resources.resources
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual_Guide.VirtualSplash.resources
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual Guide.csproj.GenerateResource.cache
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual Guide.GeneratedMSBuildEditorConfig.editorconfig
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual Guide.AssemblyInfoInputs.cache
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual Guide.AssemblyInfo.cs
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual Guide.csproj.CoreCompileInputs.cache
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual Guide.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\refint\Virtual Guide.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual Guide.pdb
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual Guide.genruntimeconfig.cache
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\ref\Virtual Guide.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual_Guide.Introdução.resources
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual_Guide.Apresentação.resources
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual_Guide.TelaPrincipal.resources
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual_Guide.Sobre.resources
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Humanizer.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Json.More.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\JsonPointer.Net.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\JsonSchema.Net.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\JsonSchema.Net.Generation.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\Mscc.GenerativeAI.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual Guide.csproj.AssemblyReference.cache
+E:\Raynnan\Ronnie\C#\====Trabalho Final====\InteractiveGuide\Virtual Guide\obj\Debug\net8.0-windows\Virtual .E86C3BBD.Up2Date
