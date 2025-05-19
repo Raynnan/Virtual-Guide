@@ -31,9 +31,10 @@ namespace Virtual_Guide
 
         private void btnIniciar_Click(object sender, EventArgs e)
         {
+
             TelaPrincipal principal = new TelaPrincipal();
 
-            principal.Show();
+            principal.ShowDialog();
 
             this.Close();
         }

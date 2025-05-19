@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Virtual Guide")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26ec484f1a93c014c294bb218a64938058fe403a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a062bfbd23a91940bd21ce0712322f0a8b7357bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Virtual Guide")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Virtual Guide")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,6 @@ namespace Virtual_Guide
             ApplicationConfiguration.Initialize();
             Application.Run(new VirtualSplash());
             Application.Run(new Apresentação());
-            Application.Run(new TelaPrincipal());
         }
     }
 }
