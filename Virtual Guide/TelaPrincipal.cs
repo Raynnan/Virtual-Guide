@@ -23,7 +23,9 @@ namespace Virtual_Guide
 
         private ChatSession chat; // Declara uma variável para a sessão de chat
 
-        private string apiKey = "SUA_CHAVE_API_AQUI..."; // Chave da API do Google Gemini
+        private string apiKey = "Sua_Chave_APi_Aqui"; // Chave da API do Google Gemini
+
+        private Mscc.GenerativeAI.Content systemInstruction = new Content("Você é um assistente pessoal"); //Defina o comportamento do seu modelo por aqui...
 
         public TelaPrincipal()
         {
@@ -32,7 +34,9 @@ namespace Virtual_Guide
 
             googleAI = new GoogleAI(apiKey: apiKey);
 
-            modelo = googleAI.GenerativeModel(model: Model.Gemini20Flash); //Alterado para Gemini 2.0 Flash
+            modelo = googleAI.GenerativeModel(model: Model.Gemini20Flash, systemInstruction: systemInstruction); //Alterado para Gemini 2.0 Flash
+
+            modelo.UseGoogleSearch = true; // Habilita a pesquisa no Google
 
             chat = modelo.StartChat();
 
@@ -46,6 +50,12 @@ namespace Virtual_Guide
         private async void btnEnviar_Click(object sender, EventArgs e)
         {
             string prompt = txtCampo.Text; // Obtém o texto do campo de entrada
+            
+            if(txtCampo.Text == "") //Verifica se a mensagem enviada não é vazia
+            {
+                MessageBox.Show("Digite uma mensagem antes de enviar.");
+                return;
+            }
 
             txtCampo.Text = ""; // Limpa o campo de entrada
 
@@ -53,13 +63,9 @@ namespace Virtual_Guide
 
             GenerateContentResponse resposta = await chat.SendMessage(prompt); // Declaração explícita do tipo
 
-            if (resposta != null && !string.IsNullOrEmpty(resposta.Text))
+            if (resposta != null && !string.IsNullOrEmpty(resposta.Text)) // Verifica se a resposta não é nula ou vazia
             {
-                rtbResp.AppendText($"Gemini: {resposta.Text}\n"); // Adiciona com quebra de linha
-            }
-            else
-            {
-                rtbResp.AppendText("Erro ao obter resposta.\n"); // Adiciona com quebra de linha
+                rtbResp.AppendText($"Virtual-Guide: {resposta.Text}\n"); // Adiciona com quebra de linha
             }
 
             // Mantém a última mensagem visível (rolando para o final)

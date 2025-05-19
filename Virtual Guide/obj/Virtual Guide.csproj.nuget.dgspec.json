@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Raynnan\\Ronnie\\C#\\====Trabalho Final====\\InteractiveGuide\\Virtual Guide\\Virtual Guide.csproj": {}
+    "E:\\Raynnan\\Ronnie\\C#\\====Trabalho Final====\\GitHub\\Virtual-Guide\\Virtual Guide\\Virtual Guide.csproj": {}
   },
   "projects": {
-    "E:\\Raynnan\\Ronnie\\C#\\====Trabalho Final====\\InteractiveGuide\\Virtual Guide\\Virtual Guide.csproj": {
+    "E:\\Raynnan\\Ronnie\\C#\\====Trabalho Final====\\GitHub\\Virtual-Guide\\Virtual Guide\\Virtual Guide.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Raynnan\\Ronnie\\C#\\====Trabalho Final====\\InteractiveGuide\\Virtual Guide\\Virtual Guide.csproj",
+        "projectUniqueName": "E:\\Raynnan\\Ronnie\\C#\\====Trabalho Final====\\GitHub\\Virtual-Guide\\Virtual Guide\\Virtual Guide.csproj",
         "projectName": "Virtual Guide",
-        "projectPath": "E:\\Raynnan\\Ronnie\\C#\\====Trabalho Final====\\InteractiveGuide\\Virtual Guide\\Virtual Guide.csproj",
+        "projectPath": "E:\\Raynnan\\Ronnie\\C#\\====Trabalho Final====\\GitHub\\Virtual-Guide\\Virtual Guide\\Virtual Guide.csproj",
         "packagesPath": "C:\\Users\\raynn\\.nuget\\packages\\",
-        "outputPath": "E:\\Raynnan\\Ronnie\\C#\\====Trabalho Final====\\InteractiveGuide\\Virtual Guide\\obj\\",
+        "outputPath": "E:\\Raynnan\\Ronnie\\C#\\====Trabalho Final====\\GitHub\\Virtual-Guide\\Virtual Guide\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f2AskIQ/jbY=",
+  "dgSpecHash": "1O0iJf/hfEg=",
   "success": true,
-  "projectFilePath": "E:\\Raynnan\\Ronnie\\C#\\====Trabalho Final====\\InteractiveGuide\\Virtual Guide\\Virtual Guide.csproj",
+  "projectFilePath": "E:\\Raynnan\\Ronnie\\C#\\====Trabalho Final====\\GitHub\\Virtual-Guide\\Virtual Guide\\Virtual Guide.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raynn\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\raynn\\.nuget\\packages\\json.more.net\\2.1.0\\json.more.net.2.1.0.nupkg.sha512",
